@@ -6,7 +6,8 @@ To address these issues, we worked on a system that detects malicious URLs using
 We selected the SVM model because of its ability to effectively process multidimensional data and linearly separate classes in the feature space. This model also provides flexibility for exploring different kernels, allowing us to experiment with various kernels to achieve the best classification results.
 
 We will use this SVM model to build our malicious URL detection system and evaluate its performance on test and validation datasets. By carefully extracting URL features and using a well-tuned SVM model, we aim to provide an effective solution to protect users against online threats.
-**Dataset Description:**
+
+#**Dataset Description:**
 We utilized a comprehensive dataset of 651,191 URLs sourced from Kaggle, **Dataset Link:** https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset , which includes:
 
 428,103 benign or safe URLs
