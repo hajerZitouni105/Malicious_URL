@@ -32,5 +32,7 @@ We referenced Faizan's Git repository to increase the count of benign URLs.
 4- Phishing URLs Increase:
 
 The Phishtank and PhishStorm datasets were also used to further augment our collection of phishing URLs.
-**Data Collection Process**
+
+**Data Collection Process:**
+
 The dataset comprises URLs collected from various sources. We found the Kaggle dataset pre-compiled and merged it into a cohesive format, retaining only the URLs and their respective class types.
