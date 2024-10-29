@@ -19,12 +19,15 @@ The dataset was constructed from the following components:
 1- Benign, Phishing, Malware, and Defacement URLs:
 
 The ISCX-URL-2016 dataset was used as the primary source for these URL types.
+
 2- Augmentation of Phishing and Malware URLs:
 
 We enhanced our dataset using a blacklist of malicious domains.
+
 3- Augmentation of Benign URLs:
 
 We referenced Faizan's Git repository to increase the count of benign URLs.
+
 4- Phishing URLs Increase:
 
 The Phishtank and PhishStorm datasets were also used to further augment our collection of phishing URLs.
